@@ -1,6 +1,6 @@
 # Fumizone
 
-Landing page estática para Fumizone, basada en la propuesta de identidad visual Protected Zone.
+Landing page estática para Fumizone, dedicada exclusivamente al control de termitas, basada en la propuesta de identidad visual Protected Zone.
 
 ## Archivos
 
